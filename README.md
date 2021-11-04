@@ -80,4 +80,4 @@ The slides of your presentation must include the content listed below and a demo
 
 Tip: you have only 3 minutes for this presentation so keep it simple!
 
-ESTA ES UNA COPIA DEL DE IRONHACK
+
