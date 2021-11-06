@@ -12,10 +12,10 @@ for letra in palabra:
     letras_palabra.append(letra)
 def pedir_letra():
     # guardar la letra que nos de el usuario
-    letra_actual = input('Dame una letra ')
+    letra_actual = input('Dame una letra ').lower()
     while letra_actual in letras_anteriores:
         #repite
-        letra_actual = input('Dame otra letra')
+        letra_actual = input('Dame otra letra').lower()
             
     letras_anteriores.append(letra_actual)        
     return letra_actual
