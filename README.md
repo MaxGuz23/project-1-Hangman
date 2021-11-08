@@ -16,12 +16,16 @@
 El ahorcado se trata de descubrir la palabra secreta antes de completar el dibujo de la horca, teniendo siete oportunidades para ganar o perder.
 ## Rules
 El jugador debera ingresar una letra diferente para adivinar.
+
 El jugador tiene 7 vidas u oportunidades de adivinar antes de completar el dibujo del ahorcado
 
 ## Workflow
-Definir el juego. \n
-Escribir el pseudocódigo y el diagrama de flujo. \n
-Escribir el código del juego. \n
+Definir el juego.
+
+Escribir el pseudocódigo y el diagrama de flujo.
+
+Escribir el código del juego.
+
 Hacer pruebas.
 
 ## Organization
