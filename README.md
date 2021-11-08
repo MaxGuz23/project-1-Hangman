@@ -33,6 +33,10 @@ Pulir detalles.
 ## Organization
 https://miro.com/app/board/o9J_llkDspo=/
 
+How did you organize your work? Did you use any tools like a kanban board?
+
+What does your repository look like? Explain your folder and file structure.
+
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
