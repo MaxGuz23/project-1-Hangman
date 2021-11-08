@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Hangman with python
+*[Paola López, Max Guzmán]*
 
 *[Your Cohort, Campus & Date]*
 
