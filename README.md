@@ -39,6 +39,7 @@ En este repositorio se encuentra el juego tanto en interactive notebook como en 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/MaxGuz23/project-1-Hangman/)  
+[Slides](https://docs.google.com/presentation/d/1xbHnuh_UtPHUMEgsJU9ST0x3e1qwN6vB-PH1TabGGj4/edit?usp=sharing
+)  
 [Miro](https://miro.com/app/board/o9J_llkDspo=/)  
