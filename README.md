@@ -31,15 +31,14 @@ Hacer pruebas.
 Pulir detalles.
 
 ## Organization
+Se realizó un pseudocódigo, diagrama de flujo y kanban en Miro
 https://miro.com/app/board/o9J_llkDspo=/
 
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+En este repositorio se encuentra el juego tanto en interactive notebook como en erchivo de python ejecutable
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Miro](https://miro.com/app/board/o9J_llkDspo=/)  
