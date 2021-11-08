@@ -42,4 +42,4 @@ Include links to your repository, slides and kanban board. Feel free to include 
 [Repository](https://github.com/MaxGuz23/project-1-Hangman/)  
 [Slides](https://docs.google.com/presentation/d/1xbHnuh_UtPHUMEgsJU9ST0x3e1qwN6vB-PH1TabGGj4/edit?usp=sharing
 )  
-[Miro](https://miro.com/app/board/o9J_llkDspo=/)  
+[Miro](https://miro.com/app/board/o9J_llkDspo=/?invite_link_id=520346514825)  
