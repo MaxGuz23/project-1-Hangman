@@ -28,10 +28,10 @@ Escribir el código del juego.
 
 Hacer pruebas.
 
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Pulir detalles.
 
-What does your repository look like? Explain your folder and file structure.
+## Organization
+https://miro.com/app/board/o9J_llkDspo=/
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
