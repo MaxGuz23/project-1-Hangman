@@ -3,7 +3,7 @@
 # Hangman with python
 *[Paola López, Max Guzmán]*
 
-*[Your Cohort, Campus & Date]*
+*[Fulltime Data analytics]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,10 +13,10 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
-
+El ahorcado se trata de descubrir la palabra secreta antes de completar el dibujo de la horca, teniendo siete oportunidades para ganar o perder.
 ## Rules
-Briefly describe the rules of the game.
+El jugador debera ingresar una letra diferente para adivinar.
+El jugador tiene 7 vidas o oportunidades de adivinar antes de completar el dibujo del ahorcado
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
